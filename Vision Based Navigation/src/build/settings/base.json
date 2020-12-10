@@ -1,0 +1,6 @@
+{
+    "app_name": "I can Help Object Detection",
+    "author": "Suyash",
+    "main_module": "src/main/python/main.py",
+    "version": "0.0.0"
+}
